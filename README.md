@@ -2,6 +2,8 @@
 
 A locally-runnable proof of concept that uses LangGraph + Gemini 1.5 Flash to create personalized workout plans and adapt them based on user feedback.
 
+![Workout App Demo](workout.gif)
+
 ## Features
 
 - 🏋️ Personalized workout plan generation based on user profile
