@@ -1,6 +1,6 @@
 # LLM Workout Trainer
 
-A locally-runnable proof of concept that uses LangGraph + Gemini 1.5 Flash to create personalized workout plans and adapt them based on user feedback.
+A locally-runnable proof of concept that uses LangGraph + Gemini to create personalized workout plans and adapt them based on user feedback.
 
 ![Workout App Demo](workout.gif)
 
